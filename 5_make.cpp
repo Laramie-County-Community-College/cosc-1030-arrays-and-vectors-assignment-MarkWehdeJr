@@ -41,3 +41,4 @@ int main() {
     cout << "Number of Tails: " << coinFlips.size() - headsCount << '\n';
 
     return 0;
+}
